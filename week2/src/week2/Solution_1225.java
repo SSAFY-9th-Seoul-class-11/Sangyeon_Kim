@@ -1,5 +1,7 @@
 package week2;
 
+//암호생성기
+
 import java.util.Scanner;
 
 public class Solution_1225 {
