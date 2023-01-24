@@ -1,19 +1,6 @@
 SSAFY 9기 서울 11반 알고리즘 스터디
 ================================
 
-> 1주차 문제
-> > 필수 문제
-> > > * D3 1206: 1일차 - View
-> > > * D3 1208: 1일차 - Flatten
-> > > * D3 2805: 농작물 수확하기
-
-> 2주차 문제
-> > 필수 문제
-> > > * D3 1220: 5일차 - Magnetic
-> > > * D3 1225: 7일차 - 암호생성기
-> > > * D3 2806: N-Queen
-
-
 ## 1주차
 * SWEA
   * [1206. View](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week1/src/week1/View_1206.java)  
