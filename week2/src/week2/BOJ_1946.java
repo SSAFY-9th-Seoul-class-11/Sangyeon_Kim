@@ -1,8 +1,7 @@
 package week2;
 
-import java.util.Arrays;
 import java.util.Scanner;
-import java.util.Comparator;
+
 public class BOJ_1946 {
 
 	public static void main(String[] args) {
