@@ -32,7 +32,7 @@ public class Solution_1860 {
 					result = "Impossible";
 					break;
 				}
-			}
+			} 
 		
 			System.out.printf("#%d %s\n", tc, result);
 		}
