@@ -17,6 +17,9 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [2839. 설탕 배달](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week2/src/week2/BOJ_2839.java)
 ## 3주차
 * SWEA
+  * [1215. 3일차 - 회문]
+  * [1249. 4일차 - 보급로](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/Solution_1249.java)
+  * [1860. 진기의 최고급 붕어빵](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/Solution_1860.java)
 * BOJ
 * Programmers
 ## 4주차
