@@ -21,6 +21,7 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [1249. 4일차 - 보급로](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/Solution_1249.java)
   * [1860. 진기의 최고급 붕어빵](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/Solution_1860.java)
 * BOJ
+  * [1260. DFS와 BFS](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/BOJ_1260.java)
 * Programmers
 ## 4주차 - 정렬
 * SWEA
