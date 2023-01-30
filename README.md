@@ -22,7 +22,8 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [1860. 진기의 최고급 붕어빵](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/Solution_1860.java)
 * BOJ
   * [1260. DFS와 BFS](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/BOJ_1260.java)
-* Programmers
+  * [11724. 연결 요소의 개수](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/BOJ_11724.java)
+  * [16947. 서울 지하철 2호선](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/BOJ_16947.java)
 ## 4주차 - 정렬
 * SWEA
 * BOJ
