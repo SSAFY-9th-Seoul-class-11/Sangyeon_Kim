@@ -27,6 +27,8 @@ SSAFY 9기 서울 11반 알고리즘 스터디
 ## 4주차 - 정렬
 * SWEA
 * BOJ
+  * [1202. 보석 도둑](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week4/src/week4/BOJ_1202.java)
+  * [11650. 좌표 정렬하기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week4/src/week4/BOJ_11650.java)
 * Programmers
 ## 5주차 - 이진탐색
 * SWEA
