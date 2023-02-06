@@ -26,11 +26,13 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [16947. 서울 지하철 2호선](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week3/src/week3/BOJ_16947.java)
 ## 4주차 - 정렬
 * SWEA
+  * ~~[1244. 2일차 - 최대상금]~~
   * [6109. 추억의 2048게임](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week4/src/week4/Solution_6109.java)
+  * [15758. 무한 문자열](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week4/src/week4/Solution_15758.java)
 * BOJ
   * [1202. 보석 도둑](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week4/src/week4/BOJ_1202.java)
+  * [2293. 동전1](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week4/src/week4/BOJ_2293.java)
   * [11650. 좌표 정렬하기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week4/src/week4/BOJ_11650.java)
-* Programmers
 ## 5주차 - 이진탐색
 * SWEA
 * BOJ
