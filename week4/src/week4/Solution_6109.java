@@ -39,9 +39,9 @@ public class Solution_6109 {
 							idx++;
 						}
 						
-						if(map[idx][j] == 0) {	// 비교할 다음 값이 0이면 패스 
-							continue;
-						}
+//						if(map[idx][j] == 0) {	// 비교할 다음 값이 0이면 패스 
+//							continue;
+//						}
 						
 						if(map[i][j] == map[idx][j]) {	// 다음 열과 합치고 해당칸은 0으로 만들어 
 							map[i][j] += map[i][j];
