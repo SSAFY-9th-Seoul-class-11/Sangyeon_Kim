@@ -14,17 +14,17 @@ public class BOJ_1011 {
 			int x = sc.nextInt();
 			int y = sc.nextInt();
 			int gap = y - x;
-			int n = 0; // 작동 횟수
 			
-			while(true) {
-				if(gap <= n * (n+1)) break;
-				n += 1;
+			int max = (int)Math.sqrt(gap);
+			
+			if (max == Math.sqrt(gap)) {
+				System.out.println(max * 2 - 1);
+			}else if(gap <= max * max + max) {
+				System.out.println(2 * max);
+			}else {
+				System.out.println(max * 2 +1);
 			}
 			
-			if(gap <= Math.pow(n, 2))
-				System.out.println(n * 2 - 1);
-			else 
-				System.out.println(n * 2);
 			
 		}
 
