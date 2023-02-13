@@ -29,12 +29,12 @@ public class Solution_2819 {
 			}
 			
 			
-			for(int i = 0 ; i < N ; i++) {
+			for(int i = 0 ; i < N ; i++) { 
 				for(int j = 0 ; j < N ; j++) {
 					dfs(i,j,0,""+map[i][j]);
 				}
 			}
-			System.out.printf("#%d %f", tc, set.size());
+			System.out.println("#"+tc+" "+set.size());
 		}
 	}
 
