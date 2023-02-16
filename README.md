@@ -35,8 +35,11 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [11650. 좌표 정렬하기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week4/src/week4/BOJ_11650.java)
 ## 5주차 - 이진탐색
 * SWEA
+  * [2819. 격자판의 숫자 이어 붙이기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week5/src/week5/Solution_2819.java)
+  * [9940. 순열1](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week5/src/week5/Solution_9940.java)
 * BOJ
-* Programmers
+  * [1011. Fly me to the Alpha Centauri](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week5/src/week5/BOJ_1011.java)
+  * [6209. 제자리 멀리뛰기]
 ## 6주차 - DP
 * SWEA
 * BOJ
