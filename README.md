@@ -42,10 +42,10 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [6209. 제자리 멀리뛰기]
 ## 6주차 - DP
 * SWEA
-  * [1868. 파핑파핑 지뢰찾기]()
-  * [14163. 6일차 - 그룹나누기]()
+  * [1868. 파핑파핑 지뢰찾기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week6/src/week6/Solution_1868.java)
+  * [5248. 6일차 - 그룹나누기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week6/src/week6/Solution_5248.java)
 * BOJ
-  * [2565. 전깃줄]()
+  * [2565. 전깃줄](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week6/src/week6/BOJ_2565.java)
   * [9465. 스티커](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week6/src/week6/BOJ_9465.java)
 ## 7주차 - 최단경로
 * SWEA
