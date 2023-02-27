@@ -48,6 +48,8 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [2565. 전깃줄](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week6/src/week6/BOJ_2565.java)
   * [9465. 스티커](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week6/src/week6/BOJ_9465.java)
 ## 7주차 - 최단경로
-* SWEA
 * BOJ
-* Programmers
+  * [2567. 색종이2](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week7/src/week7/BOJ_2567.java)
+  * [14501. 퇴사](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week7/src/week7/BOJ_14501.java)
+  * [17406. 배열돌리기 4](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week7/src/week7/BOJ_17406.java)
+  * [17070. 파이프 옮기기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week7/src/week7/BOJ_17070.java)
