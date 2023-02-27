@@ -2,7 +2,7 @@ package week7;
 
 import java.util.Scanner;
 
-public class BOJ_17046 {
+public class BOJ_17406 {
 
 	static int[][] map;
 	static int[][] rotation;
