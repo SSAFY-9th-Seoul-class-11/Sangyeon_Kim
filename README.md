@@ -53,3 +53,10 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [14501. 퇴사](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week7/src/week7/BOJ_14501.java)
   * [17406. 배열돌리기 4](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week7/src/week7/BOJ_17406.java)
   * [17070. 파이프 옮기기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week7/src/week7/BOJ_17070.java)
+  
+## 8주차 
+* BOJ
+  * [3019. 테트리스](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week8/src/week8/BOJ_3019.java)
+  * [17472. 다리 만들기2](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week8/src/week8/BOJ_17472.java)
+  * [10773. 제로](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week8/src/week8/BOJ_10773.java)
+  * [18111. 마인크래프트](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week8/src/week8/BOJ_18111.java)
