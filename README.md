@@ -60,3 +60,10 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [17472. 다리 만들기2](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week8/src/week8/BOJ_17472.java)
   * [10773. 제로](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week8/src/week8/BOJ_10773.java)
   * [18111. 마인크래프트](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week8/src/week8/BOJ_18111.java)
+  
+## 9주차 
+* BOJ
+  * [1149. RGB거리](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week9/src/week9/BOJ_1149.java)
+  * [2096. 내려가기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week9/src/week9/BOJ_2096.java)
+  * [15652. N과 M(4)](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week9/src/week9/BOJ_15652.java)
+  * [16953. A --> B](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week9/src/week9/BOJ_16953.java)
