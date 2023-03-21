@@ -67,3 +67,8 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [2096. 내려가기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week9/src/week9/BOJ_2096.java)
   * [15652. N과 M(4)](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week9/src/week9/BOJ_15652.java)
   * [16953. A --> B](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week9/src/week9/BOJ_16953.java)
+  
+  
+## 10주차 
+* BOJ
+  * [15654. N과 M(5)](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week10/src/week10/BOJ_15654.java)
