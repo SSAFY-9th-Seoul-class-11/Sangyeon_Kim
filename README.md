@@ -87,9 +87,16 @@ SSAFY 9기 서울 11반 알고리즘 스터디
   * [11404. 플로이드](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week12/BOJ_11404_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.java)
   * [12865. 평범한 배낭](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week12/BOJ_12865_%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%AD.java)
 
-  ## 13주차 
+## 13주차 
 * BOJ
   * [1068. 트리](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week13/src/week13/BOJ_1068_%ED%8A%B8%EB%A6%AC.java)
   * [1916. 최소비용 구하기](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week13/src/week13/BOJ_1916_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0.java)
   * [2239. 스도쿠](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week13/src/week13/BOJ_2239_%EC%8A%A4%EB%8F%84%EC%BF%A0.java)
   * [2623. 음악 프로그램](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week13/src/week13/BOJ_2623_%EC%9D%8C%EC%95%85%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.java)
+
+## 14주차 
+* BOJ
+  * [10942. 팰린드롬](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week14/src/week14/BOJ_10942_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.java)
+  * [12852. 1로만들기2](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week14/src/week14/BOJ_12852_1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B02.java)
+  * [17404. RGB거리 2](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week14/src/week14/BOJ_17404_RGB%EA%B1%B0%EB%A6%AC2.java)
+  * [20040. 사이클게임](https://github.com/SSAFY-9th-Seoul-class-11/Sangyeon_Kim/blob/main/week14/src/week14/BOJ_20040_%EC%82%AC%EC%9D%B4%ED%81%B4%EA%B2%8C%EC%9E%84.java)
